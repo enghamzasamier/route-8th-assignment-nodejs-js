@@ -1,0 +1,22 @@
+{
+  "name": "assignment-8-remastered",
+  "version": "1.0.0",
+  "description": "A remastered MongoDB backend assignment.",
+  "main": "app/app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app/app.js",
+    "start": "node app/app.js"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "nodejs"
+  ],
+  "author": "Remastered Project",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongodb": "^7.1.0"
+  }
+}
