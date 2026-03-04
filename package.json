@@ -1,7 +1,7 @@
 {
-  "name": "assignment-8-remastered",
+  "name": "backend-assignment-8",
   "version": "1.0.0",
-  "description": "A remastered MongoDB backend assignment.",
+  "description": "MongoDB backend assignment for library management system.",
   "main": "app/app.js",
   "type": "module",
   "scripts": {
@@ -13,7 +13,7 @@
     "express",
     "nodejs"
   ],
-  "author": "Remastered Project",
+  "author": "Student",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1",
